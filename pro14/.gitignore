@@ -4,3 +4,5 @@
 .jar
 .class
 /image/
+WebContent/image/*
+WebContent/META-INF/*
